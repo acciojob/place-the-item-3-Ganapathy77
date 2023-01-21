@@ -1,2 +1,13 @@
-
+.holder {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.element{
+    height: 40px;
+    width: 60px;
+    background-color: lightskyblue;
+    padding: 5px;
+    text-align: center;
+}
 /* Your CSS Code here. */
